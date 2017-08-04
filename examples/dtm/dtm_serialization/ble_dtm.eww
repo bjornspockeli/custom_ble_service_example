@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<workspace>  <project>
+    <path>$WS_DIR$\pca10040\ser_s132_spi\iar\ble_dtm_pca10040_s132_spi.ewp</path>
+  </project>  <project>
+    <path>$WS_DIR$\pca10040\ser_s132_hci\iar\ble_dtm_pca10040_s132_hci.ewp</path>
+  </project>  <project>
+    <path>$WS_DIR$\pca10040\ser_s132_uart\iar\ble_dtm_pca10040_s132_uart.ewp</path>
+  </project>  <project>
+    <path>$WS_DIR$\pca10040\ser_s132_spi_5W\iar\ble_dtm_pca10040_s132_spi_5W.ewp</path>
+  </project>  <batchBuild/>
+</workspace>
